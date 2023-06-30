@@ -9,6 +9,6 @@
   "license": "MIT",
   "dependencies": {
     "truffle-contract": "3.0.7",
-    "web3": "0.20.6"
+    "web3": "4.0.1"
   }
 }
