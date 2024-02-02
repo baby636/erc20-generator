@@ -8,7 +8,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "truffle-contract": "3.0.7",
+    "truffle-contract": "4.0.31",
     "web3": "0.20.6"
   }
 }
